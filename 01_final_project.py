@@ -11,7 +11,7 @@ print(f"Your Name Is {name}\n"
       f"current age {age}\n"
       f"Age After five Years {age + 5}\n"
       f"current salary {salary}\n"
-      f"Your New Salary Will Be On Five Years {salary + 5000}\n"
+      f"Your New Salary After Increase: {salary + 5000} Rupees\n"
       f"Your Annual Salary Is {annual_salary} Rupees\n"
       f"You Live In {city}" )
 
